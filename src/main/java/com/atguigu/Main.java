@@ -14,5 +14,6 @@ public class Main {
         System.out.println("测试冲突,master添加");
         System.out.println("GitHub中添加");
         System.out.println("testReset");
+        System.out.println("Git_test");
     }
 }
