@@ -13,5 +13,6 @@ public class Main {
         System.out.println("dev 新增内容");
         System.out.println("测试冲突,master添加");
         System.out.println("GitHub中添加");
+        System.out.println("testReset");
     }
 }
